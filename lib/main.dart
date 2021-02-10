@@ -12,7 +12,7 @@ void main() {
           child: Center(
             child: Text(
               "Deo Fahmawan \n"
-              "1931710126",
+              "1931710126 \n",
               textDirection: TextDirection.ltr,
               style: TextStyle(color: Colors.deepPurple, fontSize: 20.0),
             ),
